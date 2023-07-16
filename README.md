@@ -1,2 +1,7 @@
 Stock Price Prediction using machine learning helps us to discover the future value of company stock and other financial assets traded on an exchange. The entire idea of predicting stock prices is to gain significant profits. Predicting how the stock market will perform is a hard task to do. There are other factors involved in the prediction, such as physical and psychological factors, rational and irrational behavior, and so on. All these factors combine to make share prices dynamic and volatile. This makes it very difficult to predict stock prices with high accuracy. 
 This is a model based upon Sklearn,and a special tool of Google that is Keras. After several modifications using the different library and packages the model has gotten an accuracy of almost 90.5%.
+![Screenshot 2023-07-16 181522](https://github.com/AkashHarh/stock_-price-_prediction/assets/113635249/13137154-7530-4bc2-a0a9-5039db8ac47b)
+![Screenshot 2023-07-16 181532](https://github.com/AkashHarh/stock_-price-_prediction/assets/113635249/6bef84dc-e81a-4ef3-9045-77a466fa8309)
+![Screenshot 2023-07-16 181637](https://github.com/AkashHarh/stock_-price-_prediction/assets/113635249/33174f76-1698-4c69-a545-e11e3ce41426)
+![Screenshot 2023-07-16 181652](https://github.com/AkashHarh/stock_-price-_prediction/assets/113635249/25b2bc4e-1d56-4e44-a5c0-3402f98d45d9)
+![Screenshot 2023-07-16 181610](https://github.com/AkashHarh/stock_-price-_prediction/assets/113635249/e9fed83f-f17f-402b-aaeb-5d3b9dc509e6)
